@@ -96,10 +96,6 @@ public class AadharCardServiceImpl implements AadharCardService {
 		return "Mobile no updated";
 	}
 
-//	@Override
-//	public String updateMobileNo(String id, String mobile) {
-//		// TODO Auto-generated method stub
-//		return null;
-//	}
+
 
 }
